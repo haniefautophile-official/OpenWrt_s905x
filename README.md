@@ -1,4 +1,4 @@
-<img src="https://github.com/haniefautophile-official/OpenWrt_s905x_21.02.3/blob/main/ss/openwrt.png"/>
+<img src="https://github.com/haniefautophile-official/OpenWrt_s905x/blob/main/ss/wrt.png"/>
 
 # OpenWrt_s905x
 
