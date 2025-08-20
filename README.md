@@ -42,8 +42,8 @@ Custom OpenWrt build targeting **Amlogic S905x TV boxes**. Repo ini menyediakan 
 
 1. **Unduh image firmware** hasil build dari halaman Releases repositori  
 2. Flash ke microSD atau USB menggunakan BalenaEtcher / Rufus  
-3. Pasang ke STB, lakukan boot → akses via browser ke `192.168.1.1`  
-4. Login dengan default (user: `root`, password: `password`)  
+3. Pasang ke STB, lakukan boot → login wifi Reyre (Tanpa paswsword) → akses via browser ke `192.168.1.1`  
+4. Login dengan default (user: `root`, password: `indonesia`)  
 5. Konfigurasikan jaringan, WiFi, firewall, dsb., melalui LuCI atau CLI  
 
 ---
