@@ -28,7 +28,7 @@ Custom OpenWrt build targeting **Amlogic S905x TV boxes**. Repo ini menyediakan 
 - Flash ke eMMC via SD card atau USB dengan tools seperti **BalenaEtcher** atau **Rufus**  
 - Setelah boot, akses OpenWrt melalui browser default IP `192.168.1.1`  
   - User: `root`  
-  - Password: `password`  
+  - Password: `indonesia`  
 
 ### 4. Backup & Restore
 - Mendukung backup/restore sistem asli dari eMMC ke SD/USB untuk rollback  
